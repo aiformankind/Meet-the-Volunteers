@@ -1,5 +1,8 @@
 # AI For Mankind's Volunteers
-Learn more about our volunteers and their continued commitments of applying and building open source AI solutions to help solve world challenging problems. 
+Meet our volunteers and their continued commitments of applying and building open source AI solutions to help solve world challenging problems and bring positive impacts to society. 
+
+Learn more about [AI For Mankind](https://www.meetup.com/AI-for-Mankind/) and join us. Together we can make things happen and build a better world !
+
 
 ## [Kiran Sanjeevan](https://www.linkedin.com/in/ksanjeevancabeza/)
 
