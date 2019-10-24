@@ -68,5 +68,5 @@ Learn more about our volunteers and their continued commitments of applying and 
 >* Seeing the World project
 
 **Describe the tasks you are working on**
->crowdsourcing api, android application
+>Building crowdsourcing api, android application.
 
