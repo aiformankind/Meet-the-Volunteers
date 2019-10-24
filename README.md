@@ -5,7 +5,7 @@ Learn more about our volunteers and their continued commitments of applying and 
 
 **What is your current day job ?**
 
-> I'm a Machine Learning Scientist working on TV Ad understanding
+> I'm a Machine Learning Scientist working on TV Ad understanding.
 
 **What attracted you to AI For Mankind ?** 
 
@@ -19,7 +19,7 @@ Learn more about our volunteers and their continued commitments of applying and 
 
 **What do you hope to gain from this experience ?**
 
->Get to work with very smart people on building tools that benefit humanity
+>Get to work with very smart people on building tools that benefit humanity.
 
 **What most energizes you and why ?**
 
@@ -28,3 +28,45 @@ Learn more about our volunteers and their continued commitments of applying and 
 **What are your hobbies ?**
 
 >If I'm not working on some AI side project I'm usually either hiking or surfing!
+
+
+## [Joe Tang](https://www.linkedin.com/in/joe-tang-01978427/)
+
+**What is your current day job ?**
+
+> I'm a Senior Quality Assurance Engineer.
+
+**What attracted you to AI For Mankind ?** 
+
+> The mission of applying AI to solve world challenging problems and bring positive impacts to society.
+
+**What AI For Mankind's projects are you working on ?**
+
+>* Seeing the World project
+
+**What do you hope to gain from this experience ?**
+
+>Gain valuable hands on experience.
+
+**What most energizes you and why ?**
+
+>Working with people that have the same vision/idea. Seeing things get built. 
+
+**What are your hobbies ?**
+
+>Running, ping pong, and working on open source.
+
+
+## Allen Liu
+
+**What attracted you to AI For Mankind ?** 
+
+> Hand on machine learning experience and interesting projects.
+
+**What AI For Mankind's projects are you working on ?**
+
+>* Seeing the World project
+
+**Describe the tasks you are working on**
+>crowdsourcing api, android application
+
